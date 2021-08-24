@@ -1,0 +1,5 @@
+{
+    "version":"1.0.1",
+    "firmware_url":"https://stella-smart.github.io/ble_uart_server.bin",
+    "message":"Find a new firmware."
+}
